@@ -1,0 +1,3 @@
+feedparser
+discord.py
+html2text
